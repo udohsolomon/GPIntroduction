@@ -10,19 +10,19 @@ I recommend installing the [Anaconda](https://www.continuum.io/downloads) distri
 
 Clone this repository into a directory of your choice.
 
-    git clone https://github.com/udohsolomon/gpintroduction.git
+    git clone https://github.com/udohsolomon/GPIntroduction.git
 
 If you are not familiar with Git and GitHub, you can simply download the zip file of the repository at the top of the main repository page.
 
 Then, move to the directory created by the clone/zip file:
 
-    cd gpintroduction
+    cd GPIntroduction
 
 and install everything using `conda`:
 
     conda env create -f environment.yml
 
-This will create an **environment** called `gpintroduction` that includes the packages required for the course.    
+This will create an **environment** called `GPIntroduction` that includes the packages required for the course.    
 
 If you are not using the Anaconda Python distribution, you will need to manually install the packages listed in `environment.yml` using `pip`.
 
@@ -32,4 +32,4 @@ So [install Anaconda](https://www.continuum.io/downloads).
 
 To use the environment, you may type:
 
-    source activate gpintroduction
+    source activate GPIntroduction
