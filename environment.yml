@@ -1,4 +1,4 @@
-name: gp_tutorial
+name: GPIntroduction
 
 channels:
  - conda-forge
